@@ -40,13 +40,13 @@ Each listing is stored as a JSON file with the following schema:
 
 ### Fields
 
-- `category_id`: The numeric identifier for the category
-- `listing_id`: The unique identifier for the listing
-- `category_path`: The hierarchical path of the category (using underscores for spaces)
-- `url`: The full URL to the listing on personalcaresuppliers.com
-- `page_number`: (Optional) Page number if applicable
-- `status`: Status of the listing (e.g., "active", "inactive")
-- `date_added`: Date when the listing was added to this database (YYYY-MM-DD format)
+- `category_id`: **[Required]** The numeric identifier for the category
+- `listing_id`: **[Required]** The unique identifier for the listing
+- `category_path`: **[Required]** The hierarchical path of the category (using underscores for spaces)
+- `url`: **[Required]** The full URL to the listing on personalcaresuppliers.com
+- `page_number`: **[Optional]** Page number if the listing URL includes pagination parameters
+- `status`: **[Required]** Status of the listing (e.g., "active", "inactive")
+- `date_added`: **[Required]** Date when the listing was added to this database (YYYY-MM-DD format)
 
 ## File Naming Convention
 
