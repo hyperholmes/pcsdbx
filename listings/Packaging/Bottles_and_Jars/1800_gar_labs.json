@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1800,
+  "listing_id": "gar_labs",
+  "category_path": "Packaging/Bottles_and_Jars",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Bottles_and_Jars/1800/",
+  "company_name": "GAR Labs Inc.",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "address": "1844 Massachusetts Ave",
+  "city": "Riverside",
+  "state": "CA",
+  "zip": "92507",
+  "country": "United States",
+  "phone": "951-788-0700",
+  "specializations": [
+    "Bottles",
+    "Jars",
+    "Caps and sprayers",
+    "Mid-volume packaging"
+  ],
+  "product_highlights": "Mid-volume packaging supplier offering bottles, jars, caps, and sprayers with 5K minimum order quantities",
+  "tags": ["packaging", "bottles", "jars", "caps", "sprayers", "mid-volume"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_packaging_bottles_jars_2025-11-04.md"
+  },
+  "notes": "Minimum order 5K units - suitable for established brands with volume requirements"
+}

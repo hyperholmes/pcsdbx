@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "alpha_aromatics",
+  "category_path": "Raw_Materials/Fragrances",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Fragrances/1828/",
+  "company_name": "Alpha Aromatics",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.alphaaromatics.com/",
+  "specializations": [
+    "Organic fragrances",
+    "Natural fragrances",
+    "Designer fragrance compositions",
+    "Fine perfumes",
+    "Personal care fragrances"
+  ],
+  "product_highlights": "Leading perfume designer and supplier providing organic, natural and designer fragrance compositions for fine perfumes and personal care products",
+  "tags": ["fragrances", "organic", "natural", "designer", "perfumes", "personal-care"],
+  "certifications": ["Organic fragrances"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Leading perfume designer and supplier with focus on organic and natural fragrance compositions"
+}

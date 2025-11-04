@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "wholesale_supplies_plus",
+  "category_path": "Raw_Materials/Emollients_Moisturizers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Emollients_Moisturizers/1828/",
+  "company_name": "Wholesale Supplies Plus",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.wholesalesuppliesplus.com/",
+  "specializations": [
+    "Emollients",
+    "Humectants",
+    "Silicones",
+    "Wholesale skincare ingredients"
+  ],
+  "product_highlights": "Broad range of emollients, humectants, and silicones for skincare formulations with wholesale pricing",
+  "tags": ["emollients", "humectants", "silicones", "wholesale", "bulk-ingredients"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_new_categories_2025-11-04.md"
+  },
+  "notes": "Wholesale supplier with broad product range for skincare formulations"
+}

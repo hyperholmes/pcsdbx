@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1806,
+  "listing_id": "filling_equipment_co",
+  "category_path": "Equipment/Filling_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Filling_Equipment/1806/",
+  "company_name": "Filling Equipment Co.",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.fillingequipment.com/",
+  "specializations": [
+    "Bottle filling machines",
+    "Cappers",
+    "Filling machine design",
+    "Filling machine sales",
+    "Filling machine repair"
+  ],
+  "product_highlights": "Specializes in design, sale, and repair of filling machines and cappers used in bottling cosmetics and personal care products",
+  "tags": ["equipment", "filling-machines", "cappers", "bottling", "cosmetics"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Comprehensive filling equipment services including design, sales, and repair"
+}

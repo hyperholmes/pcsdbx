@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "stock_fragrance",
+  "category_path": "Raw_Materials/Fragrances",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Fragrances/1828/",
+  "company_name": "Stock Fragrance",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.stockfragrance.com/collections/fragrance-oils-for-clean-beauty-cosmetics",
+  "specializations": [
+    "Clean beauty fragrances",
+    "Non-toxic fragrances",
+    "Vegan fragrances",
+    "Cruelty-free fragrances",
+    "USA-made fragrances"
+  ],
+  "product_highlights": "Fragrance oils for clean beauty & cosmetics - safe, non-toxic, and elegant scents for skincare, makeup, and personal care",
+  "tags": ["fragrances", "clean-beauty", "non-toxic", "vegan", "cruelty-free", "usa-made"],
+  "certifications": ["Vegan", "Cruelty-free"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Focus on clean beauty with safe, non-toxic, vegan, and cruelty-free fragrance oils made in USA"
+}

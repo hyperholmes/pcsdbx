@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "bulk_apothecary",
+  "category_path": "Raw_Materials/Emollients_Moisturizers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Emollients_Moisturizers/1828/",
+  "company_name": "Bulk Apothecary",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.bulkapothecary.com/",
+  "specializations": [
+    "Natural vegetable oils",
+    "Butters",
+    "Waxes",
+    "Raw cosmetic ingredients"
+  ],
+  "product_highlights": "Complete line of top-quality raw ingredients including natural vegetable oils, butters, and waxes for cosmetic formulations",
+  "tags": ["emollients", "natural-oils", "butters", "waxes", "bulk-ingredients"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_new_categories_2025-11-04.md"
+  },
+  "notes": "Complete line of top-quality raw ingredients with focus on natural vegetable oils, butters, and waxes"
+}

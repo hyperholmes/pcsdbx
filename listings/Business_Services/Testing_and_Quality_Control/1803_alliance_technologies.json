@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "alliance_technologies",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/1803/",
+  "company_name": "Alliance Technologies",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://alliancetechgroup.com/industries/cosmetics-and-beauty/",
+  "specializations": [
+    "Beauty product testing",
+    "Cosmetic testing lab",
+    "Consumer safety testing",
+    "Expert testing services"
+  ],
+  "product_highlights": "Beauty product testing services through expert cosmetic testing lab to ensure consumer safety",
+  "tags": ["testing", "quality-control", "beauty-products", "cosmetic-lab", "consumer-safety"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Expert cosmetic testing lab focused on ensuring consumer safety through comprehensive testing"
+}

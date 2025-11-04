@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "emsl_analytical",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/1803/",
+  "company_name": "EMSL Analytical, Inc.",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://emsl.com/Services.aspx?action=list&ServiceCategoryID=260",
+  "specializations": [
+    "Cosmetics testing",
+    "Personal care products testing",
+    "Consumer testing",
+    "Manufacturer testing",
+    "Rapid turnaround"
+  ],
+  "product_highlights": "Cosmetics testing services for consumers and manufacturers with accurate results and rapid turnaround",
+  "tags": ["testing", "quality-control", "cosmetics", "personal-care", "rapid-turnaround"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Laboratory providing accurate cosmetics testing with rapid turnaround for consumers and manufacturers"
+}

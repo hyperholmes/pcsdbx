@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1805,
+  "listing_id": "ebara_mixers",
+  "category_path": "Equipment/Mixing_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Mixing_Equipment/1805/",
+  "company_name": "EBARA Mixers (Scott Mixer)",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://ebarahg.com/mixing-application-solutions/cosmetic-and-personal-care/",
+  "specializations": [
+    "Mixing systems",
+    "Cosmetic mixing",
+    "Personal care mixing",
+    "Clay masks to shampoos",
+    "Scott Mixer brand"
+  ],
+  "product_highlights": "Scott Mixer brand manufactures mixing systems for the cosmetic & personal care industries from clay masks to shampoos",
+  "tags": ["equipment", "mixing", "mixing-systems", "cosmetic", "personal-care", "scott-mixer"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Scott Mixer brand - mixing systems for cosmetic and personal care industries"
+}

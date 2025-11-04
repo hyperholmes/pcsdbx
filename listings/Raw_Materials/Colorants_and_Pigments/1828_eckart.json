@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "eckart",
+  "category_path": "Raw_Materials/Colorants_and_Pigments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Colorants_and_Pigments/1828/",
+  "company_name": "ECKART",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.eckart.net/en/productsearch/personal-care",
+  "specializations": [
+    "Effect pigments",
+    "Additives",
+    "Natural cosmetics pigments",
+    "Personal care pigments"
+  ],
+  "product_highlights": "Interplay of effect pigments and additives to improve the feel and look of Personal Care products, including Natural Cosmetics",
+  "tags": ["colorants", "effect-pigments", "additives", "natural-cosmetics", "personal-care"],
+  "certifications": ["Natural Cosmetics approved"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Effect pigments and additives for personal care including natural cosmetics applications"
+}

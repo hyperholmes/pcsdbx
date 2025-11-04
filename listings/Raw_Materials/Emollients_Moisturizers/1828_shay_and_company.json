@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "shay_and_company",
+  "category_path": "Raw_Materials/Emollients_Moisturizers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Emollients_Moisturizers/1828/",
+  "company_name": "Shay and Company",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://shayandcompany.com/",
+  "specializations": [
+    "Wholesale cosmetic ingredients",
+    "Organic oils",
+    "Actives",
+    "Vitamins",
+    "Clean skincare ingredients"
+  ],
+  "product_highlights": "Trusted supplier of wholesale/bulk cosmetic ingredients including organic oils, actives, vitamins for clean skincare formulations",
+  "tags": ["emollients", "organic-oils", "wholesale", "clean-skincare", "bulk-ingredients"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_new_categories_2025-11-04.md"
+  },
+  "notes": "Trusted cosmetic ingredients supplier focusing on organic and clean skincare formulations"
+}

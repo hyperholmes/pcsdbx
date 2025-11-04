@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "cpt_labs",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/1803/",
+  "company_name": "CPT Labs (Consumer Product Testing)",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://cptclabs.com/cosmetic-personal-care-testing/",
+  "specializations": [
+    "Cosmetic testing",
+    "Moisturizer testing",
+    "Lotion testing",
+    "Makeup testing",
+    "Hair care testing",
+    "Sunscreen testing"
+  ],
+  "product_highlights": "Reliable, trusted and high-quality cosmetic testing for moisturizers, lotions, makeup, hair care and sunscreen",
+  "tags": ["testing", "quality-control", "cosmetic-testing", "moisturizers", "makeup", "hair-care", "sunscreen"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Provides reliable and trusted cosmetic testing across all personal care product categories"
+}

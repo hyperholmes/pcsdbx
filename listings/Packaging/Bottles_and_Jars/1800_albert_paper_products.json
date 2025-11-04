@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1800,
+  "listing_id": "albert_paper_products",
+  "category_path": "Packaging/Bottles_and_Jars",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Bottles_and_Jars/1800/",
+  "company_name": "Albert Paper Products",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "address": "464 Coit St",
+  "city": "Irvington",
+  "state": "NJ",
+  "zip": "07111",
+  "country": "United States",
+  "phone": "973-373-0330",
+  "specializations": [
+    "Bottles",
+    "Tubes",
+    "Compacts",
+    "Rollerball containers",
+    "Lip gloss packaging",
+    "Pencil packaging"
+  ],
+  "product_highlights": "Comprehensive packaging portfolio including bottles, tubes, compacts, rollerballs, lip gloss, and pencil packaging",
+  "tags": ["packaging", "bottles", "tubes", "compacts", "rollerball", "lip-gloss", "comprehensive"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_packaging_bottles_jars_2025-11-04.md"
+  },
+  "notes": "Brand & protect your product - comprehensive packaging supplier with diverse portfolio"
+}

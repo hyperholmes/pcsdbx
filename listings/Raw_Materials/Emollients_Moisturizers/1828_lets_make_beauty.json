@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "lets_make_beauty",
+  "category_path": "Raw_Materials/Emollients_Moisturizers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Emollients_Moisturizers/1828/",
+  "company_name": "Let's Make Beauty (Presperse)",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.letsmakebeauty.com/",
+  "specializations": [
+    "Premium cosmetic ingredients",
+    "Emollients",
+    "Ingredients for beauty entrepreneurs",
+    "Presperse brand products"
+  ],
+  "product_highlights": "High-quality cosmetic ingredients including emollients with quantities and pricing designed for beauty entrepreneurs",
+  "tags": ["emollients", "premium-ingredients", "beauty-entrepreneurs", "presperse", "cosmetic-ingredients"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_new_categories_2025-11-04.md"
+  },
+  "notes": "Presperse brand, focus on high-quality ingredients with entrepreneur-friendly quantities and pricing"
+}

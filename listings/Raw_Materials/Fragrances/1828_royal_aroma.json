@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "royal_aroma",
+  "category_path": "Raw_Materials/Fragrances",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Fragrances/1828/",
+  "company_name": "Royal Aroma",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.royalaroma.com/",
+  "specializations": [
+    "Natural fragrances",
+    "Designer fragrances",
+    "Perfumes",
+    "Soaps and lotions fragrances",
+    "Hair care fragrances"
+  ],
+  "product_highlights": "Fragrance manufacturer producing natural and designer fragrances for perfumes, soaps, lotions, and hair care products",
+  "tags": ["fragrances", "natural", "designer", "perfumes", "soaps", "lotions", "hair-care"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Manufacturer of natural and designer fragrances for personal care applications"
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1805,
+  "listing_id": "mxd_process",
+  "category_path": "Equipment/Mixing_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Mixing_Equipment/1805/",
+  "company_name": "MXD Process",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.mxdprocess.com/cosmetics-processing-equipment",
+  "specializations": [
+    "Skincare production equipment",
+    "Hair-care production equipment",
+    "Creams and lotions equipment",
+    "Serums equipment",
+    "Shampoos and conditioners equipment"
+  ],
+  "product_highlights": "Advanced equipment for the production of skincare and hair-care products, including creams, lotions, serums, shampoos, and conditioners",
+  "tags": ["equipment", "mixing", "skincare", "hair-care", "creams", "lotions", "serums"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Advanced processing equipment for skincare and hair-care product manufacturing"
+}

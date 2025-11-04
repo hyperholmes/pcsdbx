@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1805,
+  "listing_id": "mixer_direct",
+  "category_path": "Equipment/Mixing_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Mixing_Equipment/1805/",
+  "company_name": "Mixer Direct",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.mixerdirect.com/collections/cosmetics-industry",
+  "specializations": [
+    "Cosmetics mixing equipment",
+    "Personal care mixers",
+    "Creams mixers",
+    "Lotions mixers",
+    "Gels mixers"
+  ],
+  "product_highlights": "Cosmetics & Personal Care Mixing Equipment built to handle creams, lotions, gels, and more to help bring your ideas to life",
+  "tags": ["equipment", "mixing", "cosmetics", "personal-care", "creams", "lotions", "gels"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Specialized mixing equipment for cosmetics and personal care products including creams, lotions, and gels"
+}

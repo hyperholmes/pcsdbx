@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "andrea_mandel_associates",
+  "category_path": "Business_Services/Packaging_Consulting",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Packaging_Consulting/1803/",
+  "company_name": "Andrea S. Mandel Associates, Packaging Consulting",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "address": "46 Ellsworth Dr",
+  "city": "Princeton Junction",
+  "state": "NJ",
+  "zip": "08550",
+  "country": "United States",
+  "phone": "609-799-3956",
+  "specializations": [
+    "Packaging consulting",
+    "Packaging development",
+    "Packaging management",
+    "Strategic packaging advisory"
+  ],
+  "product_highlights": "Expert packaging consulting services for development and management of personal care product packaging strategies",
+  "tags": ["consulting", "packaging-development", "packaging-management", "strategic-advisory"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_packaging_bottles_jars_2025-11-04.md"
+  },
+  "notes": "Provides packaging consulting services - not a supplier but strategic advisor for packaging development"
+}

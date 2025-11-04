@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1804,
+  "listing_id": "dynamic_recycling",
+  "category_path": "Business_Services/Recycling_and_Waste_Management",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Recycling_and_Waste_Management/1804/",
+  "company_name": "Dynamic Recycling LLC (division of MXI Environmental Services)",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "address": "220 N. Industrial Dr",
+  "city": "Bristol",
+  "state": "TN",
+  "zip": "37620",
+  "country": "United States",
+  "phone": "973-731-8590",
+  "specializations": [
+    "Ethanol recycling",
+    "Unsaleable product destruction",
+    "Health and Beauty industry waste management",
+    "Sustainability services"
+  ],
+  "product_highlights": "Leading national supplier of ethanol recycling and unsaleable product destruction for the Health and Beauty industry",
+  "tags": ["recycling", "sustainability", "waste-management", "ethanol-recycling", "product-destruction"],
+  "certifications": ["Environmental compliance"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_packaging_bottles_jars_2025-11-04.md"
+  },
+  "notes": "Leading national supplier of ethanol recycling - supports sustainable operations and waste management"
+}

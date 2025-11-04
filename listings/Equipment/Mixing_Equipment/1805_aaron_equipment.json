@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1805,
+  "listing_id": "aaron_equipment",
+  "category_path": "Equipment/Mixing_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Mixing_Equipment/1805/",
+  "company_name": "Aaron Equipment Company",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.aaronequipment.com/used-equipment/cosmetics-equipment",
+  "specializations": [
+    "Used cosmetic equipment",
+    "Agitators",
+    "Mixers",
+    "Kettles",
+    "Packaging equipment",
+    "Dryers and feeders"
+  ],
+  "product_highlights": "Used cosmetic equipment inventory including agitators, mixers, kettles, packaging equipment, dryers, and feeders for cost-effective manufacturing solutions",
+  "tags": ["equipment", "used-equipment", "mixers", "agitators", "kettles", "packaging", "cost-effective"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Supplier of used cosmetic equipment providing cost-effective solutions for manufacturers"
+}

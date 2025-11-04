@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "intertek",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/1803/",
+  "company_name": "Intertek",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.intertek.com/beauty-personal-care/cosmetics-testing/",
+  "specializations": [
+    "Cosmetic testing",
+    "Analysis services",
+    "Safety testing",
+    "Efficacy testing",
+    "Quality assurance"
+  ],
+  "product_highlights": "Expert cosmetic testing and analysis services to ensure safe, effective and high-quality beauty and personal care products and raw materials",
+  "tags": ["testing", "quality-control", "safety", "efficacy", "analysis", "global"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "web_research",
+    "data_source": "web_search"
+  },
+  "notes": "Global testing and quality assurance provider for beauty and personal care industry"
+}
