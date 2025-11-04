@@ -143,7 +143,7 @@ jobs:
           gh issue create \
             --title "$ISSUE_TITLE" \
             --body "$ISSUE_BODY" \
-            --assignee danregima,drzo
+            --assignee danregima
             
       - name: Check for missing response
         if: steps.check_messages.outputs.new_messages == 'false'
@@ -213,7 +213,7 @@ jobs:
               gh issue create \
                 --title "Help Request: Manus-Copilot Communication Stuck" \
                 --body "$HELP_ISSUE_BODY" \
-                --assignee danregima,drzo
+                --assignee danregima
             else
               echo "Help request already exists (Issues: $HELP_REQUEST_ISSUES, Files: $HELP_REQUEST_FILES). Skipping creation."
             fi
