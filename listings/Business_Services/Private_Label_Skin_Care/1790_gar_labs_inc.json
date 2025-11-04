@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1790,
+  "listing_id": "gar_labs_inc",
+  "category_path": "Business_Services/Private_Label_Skin_Care",
+  "url": "https://personalcaresuppliers.com/",
+  "company_name": "GAR Labs Inc.",
+  "address": "1844 Massachusetts Ave, Riverside, CA 92507",
+  "country": "United States",
+  "phone": "951-788-0700",
+  "website": "https://www.garlabs.com",
+  "specializations": [
+    "Private label hair care manufacturing",
+    "Private label skin care manufacturing",
+    "Mid-volume production (5000+ pieces)",
+    "FDA registered organic contract manufacturing",
+    "Custom formulation services"
+  ],
+  "product_highlights": [
+    "Large FOR HIRE custom Hair Care & Skin Care Manufacturer",
+    "Competitive pricing from 5000 pieces and up",
+    "FDA registered organic contract manufacturing",
+    "Mid-volume specialist ideal for emerging brands"
+  ],
+  "tags": [
+    "private-label",
+    "contract-manufacturer",
+    "organic",
+    "emerging-brands"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Mid-volume private label specialist, good for emerging brands with 5000+ piece requirements. Offers both hair care and skin care manufacturing with FDA registered organic capabilities."
+}

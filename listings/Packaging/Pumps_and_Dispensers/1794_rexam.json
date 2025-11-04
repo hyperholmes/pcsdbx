@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1794,
+  "listing_id": "rexam",
+  "category_path": "Packaging/Pumps_and_Dispensers",
+  "url": "https://personalcaresuppliers.com/",
+  "company_name": "Rexam",
+  "address": "4 Millbank, London, SW1P 3XR",
+  "country": "United Kingdom",
+  "phone": "954-972-7750",
+  "website": "https://www.rexam.com",
+  "specializations": [
+    "Global consumer packaging",
+    "Beverage can manufacturing",
+    "Airless pump systems",
+    "Cosmetics packaging",
+    "Personal care dispensing solutions",
+    "Airless technology (Airspray acquisition)"
+  ],
+  "product_highlights": [
+    "World's leading beverage can maker",
+    "Acquired Airspray in 2006 for airless pump technology",
+    "Global operations and distribution",
+    "Airless pump systems for cosmetics and personal care",
+    "Major player in consumer packaging"
+  ],
+  "tags": [
+    "major-player",
+    "packaging",
+    "cosmetic",
+    "global-distributor"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Major global player with airless pump expertise. Acquisition of Airspray in 2006 demonstrates commitment to cosmetic dispensing technology. Critical for sensitive formulations requiring airless packaging."
+}

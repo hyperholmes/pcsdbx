@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1790,
+  "listing_id": "pravada",
+  "category_path": "Business_Services/Private_Label_Skin_Care",
+  "url": "https://www.pravadaprivatelabel.com",
+  "company_name": "Pravada",
+  "address": "To be researched",
+  "country": "United States",
+  "phone": "To be researched",
+  "website": "https://www.pravadaprivatelabel.com",
+  "specializations": [
+    "Organic private label skin care",
+    "Natural private label hair care",
+    "Spa and salon product manufacturing",
+    "Clean beauty formulations",
+    "Retail brand development"
+  ],
+  "product_highlights": [
+    "Specializes in organic and natural private label products",
+    "Perfect for spas, salons, and retailers",
+    "Clean beauty focus with natural ingredients",
+    "Comprehensive spa and salon product lines"
+  ],
+  "tags": [
+    "private-label",
+    "organic",
+    "natural-ingredients",
+    "full-service"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Natural/organic private label specialist. Strategic supplier for clean beauty and spa/salon brands. Strong alignment with natural ingredients trend."
+}

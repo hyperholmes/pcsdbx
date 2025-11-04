@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1790,
+  "listing_id": "trilogy_laboratories",
+  "category_path": "Business_Services/Private_Label_Skin_Care",
+  "url": "https://www.trilogylaboratories.com",
+  "company_name": "Trilogy Laboratories",
+  "address": "To be researched",
+  "country": "United States",
+  "phone": "To be researched",
+  "website": "https://www.trilogylaboratories.com",
+  "specializations": [
+    "Private label skincare manufacturing",
+    "Private label beauty products",
+    "Custom formulation services",
+    "Brand development support"
+  ],
+  "product_highlights": [
+    "Specialized private label manufacturer with strong industry reputation",
+    "Custom formulation capabilities",
+    "Comprehensive brand development support",
+    "Focus on skincare and beauty products"
+  ],
+  "tags": [
+    "private-label",
+    "contract-manufacturer",
+    "full-service",
+    "cosmetic"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Industry leader in private label skincare manufacturing. Identified from industry research as one of the top private label manufacturers in US."
+}
