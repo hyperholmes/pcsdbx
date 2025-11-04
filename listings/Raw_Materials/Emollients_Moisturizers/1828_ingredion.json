@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "ingredion",
+  "category_path": "Raw_Materials/Emollients_Moisturizers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Emollients_Moisturizers/1828/",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "company_name": "Ingredion Incorporated",
+  "address": "5 Westbrook Corporate Center, Westchester, IL 60154",
+  "country": "United States",
+  "phone": "800-443-2746",
+  "website": "https://www.ingredion.com",
+  "specializations": [
+    "Vegetable Oils",
+    "Natural Emollients",
+    "Skin Smoothness Ingredients"
+  ],
+  "tags": [
+    "natural-ingredients",
+    "major-player"
+  ],
+  "notes": "Focus on natural, vegetable-based emollients for skin smoothness promotion",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  }
+}

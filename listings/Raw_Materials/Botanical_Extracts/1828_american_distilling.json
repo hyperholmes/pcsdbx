@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "american_distilling",
+  "category_path": "Raw_Materials/Botanical_Extracts",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Botanical_Extracts/1828/",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "company_name": "American Distilling, Inc.",
+  "address": "31 E. High St., PO Box 319, East Hampton, CT 06424",
+  "country": "United States",
+  "phone": "860-267-4444",
+  "website": "https://www.americandistilling.com",
+  "specializations": [
+    "Alcohol Free Witch Hazel Distillates",
+    "Clear, colorless botanical extracts",
+    "Witch Hazel extracts"
+  ],
+  "product_highlights": [
+    "Witch Hazel extracts from dormant twigs",
+    "Alcohol-free formulations"
+  ],
+  "tags": [
+    "natural-ingredients"
+  ],
+  "notes": "Specialty in witch hazel botanical extracts with alcohol-free formulations",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  }
+}
