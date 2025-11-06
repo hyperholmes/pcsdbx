@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1805,
+  "listing_id": "alameda_packaging_pumps",
+  "category_path": "Packaging/Pumps_and_Dispensers",
+  "url": "https://personalcaresuppliers.com/",
+  "company_name": "Alameda Packaging LLC",
+  "address": "4445 Enterprise Street, Fremont, CA 94538",
+  "country": "United States",
+  "phone": "510-651-0277",
+  "website": "https://www.alamedapackaging.com",
+  "specializations": [
+    "Caps and closures",
+    "Sprayers and pumps",
+    "Glass bottles and jars",
+    "HDPE and PET bottles",
+    "Silkscreening services",
+    "Hot stamping decoration",
+    "Complete bottle and pump systems"
+  ],
+  "product_highlights": [
+    "One-stop shop for bottles, jars, and dispensing systems",
+    "Full-service packaging provider",
+    "In-house decoration capabilities",
+    "Complete bottle + pump systems for compatibility",
+    "Aesthetic consistency for brand development"
+  ],
+  "tags": [
+    "full-service",
+    "packaging",
+    "bottles",
+    "jars",
+    "decoration"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Already documented in Bottles & Jars category. Adding to Pumps & Dispensers to highlight complete system offerings. Provides matched bottle and pump systems ensuring compatibility and aesthetic consistency."
+}
