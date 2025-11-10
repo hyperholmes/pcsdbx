@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "acme_hardesty_thickeners",
+  "category_path": "Raw_Materials/Thickeners",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Thickeners",
+  "company_name": "Acme-Hardesty Co.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "450 Sentry Parkway East Suite 104, Blue Bell, PA 19422",
+  "country": "United States",
+  "phone": "215-591-3610",
+  "specializations": [
+    "Natural ingredients distribution",
+    "Oleochemicals",
+    "Specialty chemicals",
+    "Thickening agents"
+  ],
+  "product_highlights": [
+    "Major distributor with comprehensive portfolio",
+    "Natural and sustainable thickening options",
+    "Reliable supply chains"
+  ],
+  "tags": [
+    "major-player",
+    "natural",
+    "global-distributor",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Major distributor with comprehensive portfolio including thickening agents for cosmetic formulations.",
+  "category_id": 9001
+}

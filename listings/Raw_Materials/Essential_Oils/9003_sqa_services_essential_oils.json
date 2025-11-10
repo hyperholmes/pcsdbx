@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9003,
+  "listing_id": "sqa_services_essential_oils",
+  "category_path": "Raw_Materials/Essential_Oils",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Essential%20Oils",
+  "company_name": "SQA Services, Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "550 Silver Spur Road Third Floor, Rolling Hills, CA 90275",
+  "country": "United States",
+  "phone": "310-802-4426",
+  "specializations": [
+    "Quality testing",
+    "Essential oils monographs",
+    "Regulatory compliance",
+    "Testing services"
+  ],
+  "product_highlights": [
+    "Testing and quality services",
+    "Essential oils expertise",
+    "Regulatory compliance support"
+  ],
+  "tags": [
+    "quality",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "SQA Services, Inc. - Supplier in Essential Oils category."
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9002,
+  "listing_id": "ingredion_emulsifiers",
+  "category_path": "Raw_Materials/Emulsifiers",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Emulsifiers",
+  "company_name": "Ingredion Incorporated",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "5 Westbrook Corporate Center, Westchester, IL 60154",
+  "country": "United States",
+  "phone": "800-443-2746",
+  "specializations": [
+    "Modified starches",
+    "Emulsifying properties",
+    "Texture enhancement",
+    "Natural emulsifiers"
+  ],
+  "product_highlights": [
+    "Global ingredient solutions company",
+    "Starch-based emulsifiers",
+    "Natural and sustainable options"
+  ],
+  "tags": [
+    "major-player",
+    "natural",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Ingredion Incorporated - Supplier of emulsifiers for personal care formulations."
+}

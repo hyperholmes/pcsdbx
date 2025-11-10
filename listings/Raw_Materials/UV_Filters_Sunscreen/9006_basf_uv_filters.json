@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9006,
+  "listing_id": "basf_uv_filters",
+  "category_path": "Raw_Materials/UV_Filters_Sunscreen",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "company_name": "BASF",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "100 Park Avenue, Florham Park, NJ 07932",
+  "country": "United States",
+  "phone": "973-245-6000",
+  "specializations": [
+    "UV filters",
+    "Chemical sunscreens",
+    "Physical filters",
+    "Technical support"
+  ],
+  "product_highlights": [
+    "Global chemical leader",
+    "Comprehensive UV filter portfolio",
+    "Technical expertise"
+  ],
+  "tags": [
+    "major-player",
+    "manufacturing",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "BASF - Supplier in UV Filters Sunscreen category."
+}
