@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9003,
+  "listing_id": "interactive_consulting_essential_oils",
+  "category_path": "Raw_Materials/Essential_Oils",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Essential%20Oils",
+  "company_name": "Interactive Consulting, Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "P.O. Box 66, East Norwich, NY 11732",
+  "country": "United States",
+  "phone": "516-922-2167",
+  "specializations": [
+    "Essential oil extraction",
+    "Ancient herbs",
+    "Consulting services",
+    "Extraction expertise"
+  ],
+  "product_highlights": [
+    "Specialized extraction expertise",
+    "Consulting services",
+    "Traditional and modern methods"
+  ],
+  "tags": [
+    "specialty",
+    "full-service"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Interactive Consulting, Inc. - Supplier in Essential Oils category."
+}

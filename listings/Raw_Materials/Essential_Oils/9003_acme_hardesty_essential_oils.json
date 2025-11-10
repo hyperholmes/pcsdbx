@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9003,
+  "listing_id": "acme_hardesty_essential_oils",
+  "category_path": "Raw_Materials/Essential_Oils",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Essential%20Oils",
+  "company_name": "Acme-Hardesty Co.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "450 Sentry Parkway East Suite 104, Blue Bell, PA 19422",
+  "country": "United States",
+  "phone": "215-591-3610",
+  "specializations": [
+    "Natural ingredients distribution",
+    "Essential oils",
+    "Oleochemicals",
+    "Specialty distribution"
+  ],
+  "product_highlights": [
+    "Major distributor",
+    "Natural ingredients focus",
+    "Comprehensive portfolio"
+  ],
+  "tags": [
+    "major-player",
+    "natural",
+    "global-distributor"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Acme-Hardesty Co. - Supplier in Essential Oils category."
+}

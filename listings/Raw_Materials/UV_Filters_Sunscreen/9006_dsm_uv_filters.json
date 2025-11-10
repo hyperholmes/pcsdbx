@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9006,
+  "listing_id": "dsm_uv_filters",
+  "category_path": "Raw_Materials/UV_Filters_Sunscreen",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "company_name": "DSM Nutritional Products",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "45 Waterview Boulevard, Parsippany, NJ 07054",
+  "country": "United States",
+  "phone": "973-257-8000",
+  "specializations": [
+    "UV filters",
+    "Sunscreen actives",
+    "Chemical filters",
+    "Innovation"
+  ],
+  "product_highlights": [
+    "Global leader in UV filters",
+    "Innovative solutions",
+    "Regulatory expertise"
+  ],
+  "tags": [
+    "major-player",
+    "advanced-technology",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "DSM Nutritional Products - Supplier in UV Filters Sunscreen category."
+}

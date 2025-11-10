@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "cargill_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Humectants",
+  "company_name": "Cargill",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "291 East El Prado Court, Chandler, AZ 85225",
+  "country": "United States",
+  "phone": "480-545-7000",
+  "specializations": [
+    "Glycerin",
+    "Natural humectants",
+    "Plant-derived ingredients",
+    "Sustainable solutions"
+  ],
+  "product_highlights": [
+    "Natural glycerin specialist",
+    "Sustainable sourcing",
+    "Global leader"
+  ],
+  "tags": [
+    "major-player",
+    "natural",
+    "sustainable"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Cargill - Supplier in Humectants category."
+}

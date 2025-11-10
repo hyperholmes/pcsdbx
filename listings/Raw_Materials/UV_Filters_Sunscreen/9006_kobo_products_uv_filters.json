@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9006,
+  "listing_id": "kobo_products_uv_filters",
+  "category_path": "Raw_Materials/UV_Filters_Sunscreen",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "company_name": "Kobo Products",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "3474 South Clinton Avenue, South Plainfield, NJ 07080",
+  "country": "United States",
+  "phone": "908-757-0033",
+  "specializations": [
+    "Treated UV filters",
+    "Dispersions",
+    "Specialty powders",
+    "Cosmetic actives"
+  ],
+  "product_highlights": [
+    "UV filter treatment specialist",
+    "Custom dispersions",
+    "Technical expertise"
+  ],
+  "tags": [
+    "specialty",
+    "cosmetic",
+    "advanced-technology"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Kobo Products - Supplier in UV Filters Sunscreen category."
+}
